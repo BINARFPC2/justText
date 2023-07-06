@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are from C2 FSW x AND</h1>
-<h3 align="center">We are making project app called Tiket GO</h3>
+<h3 align="center">We are making project app called TicketGO</h3>
 
-- 🔭 We currently studying on Binar Academy **Tiket GO**
+- 🔭 We currently studying on Binar Academy **TicketGO**
 
 - 🌱 We're using **Javascript, and kotlin for the app**
 
